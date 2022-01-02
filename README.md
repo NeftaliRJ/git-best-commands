@@ -27,7 +27,7 @@ _A list of useful commands of git_
 
 | Command | Description |
 | ------- | ----------- |
-| `git diff --color-words='\''\w+|.' ` | View diff by highlighting colors |
+| `git diff --color-words='\''\w+l.'` | View diff by highlighting colors |
 | `git diff > [name-file].patch` | Save diffs in file |
 | `git apply [name-file].patch` | Apply diffs of the file in repo |
 | `git commit --amend --no-edit` | Keep commit messages and add new file changes |
